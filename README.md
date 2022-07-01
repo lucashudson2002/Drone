@@ -24,6 +24,7 @@
 - 1 NRF24L01
 - Medidor e sinalizor de nível da bateria
 - Capacitor, diodo, conector xt-60
+- PCB ou fenolite serve?
 
 <h2 align="center">  ✔️ Técnicas e tecnologias utilizadas </h2>
 
