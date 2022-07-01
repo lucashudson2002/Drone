@@ -25,6 +25,7 @@
 - Medidor e sinalizor de nível da bateria
 - Capacitor, diodo, conector xt-60
 - PCB ou fenolite serve?
+- Acho que não precisa chave liga/desliga
 
 <h2 align="center">  ✔️ Técnicas e tecnologias utilizadas </h2>
 
