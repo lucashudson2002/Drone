@@ -1,6 +1,6 @@
 <h1 align="center"> Drone </h1>
 <p  align="center"> 
-    This is a DIY drone based on the F450 quadcopter made with arduino. <br>
+    This is a DIY drone based on the F450 quadcopter made with arduino. It will be controlled by the DIY remote control. <br>
     :construction:  Project under construction  :construction:
 </p>
 
