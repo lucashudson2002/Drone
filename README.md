@@ -10,7 +10,8 @@
 
 <h2 align="center">  📁 Descrição dos arquivos </h2>
 
-- main.ino -> arquivo que fica o programa principal
+- Drone-main.ino -> arquivo que fica o programa principal
+- diagrama.fzz -> arquivo que fica todas as ligações do projeto
 
 <h2 align="center">  🛠️ Lista de itens </h2>
 
@@ -23,7 +24,7 @@
 - 1 MPU6050
 - 1 NRF24L01
 - 1 bateria lipo 3s 11.1v ?mAh ?C
-- Medidor e sinalizor de nível da bateria
+- Medidor e sinalizador de nível da bateria
 - Capacitor, diodo, parafusos, porcas, borne KRE 2 vias, barras de pinos macho, fios, solda, XT-60, velcro, abraçadeira.
 
 <h2 align="center">  ✔️ Técnicas e tecnologias utilizadas </h2>
